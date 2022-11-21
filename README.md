@@ -1,27 +1,28 @@
 # Modern-Statistics-for-Modern-Biology
 
-# A Comparitive Study of Clustering Algorithms on Retinal Cell Gene Expression Data
-# 1. Selecting two clustering algorithms
-# Task 1: Select two clustering algorithms for data with over 10,000 dimensions
+#A Comparitive Study of Clustering Algorithms on Retinal Cell Gene Expression Data
 
-# Choosing the number of clusters
-# Task 2: Selecting number of clusters (Choosing two internal cluster quality measures)
+1. Selecting two clustering algorithms
+Task 1: Select two clustering algorithms for data with over 10,000 dimensions
 
-# 3. Simulating data with complex clusters (Variables = sample size / dimensions / number of clusters)
-# Task 3: Simulate  datasets with various sample sizes, dimensions, and number of clusters (small vs large)
+Choosing the number of clusters
+Task 2: Selecting number of clusters (Choosing two internal cluster quality measures)
 
-# 4. Performance evaluation on simulated datasets (Clustering accuracy)
-# Task 4.1: Use ARI to report the performance of algorithms as a function of sample size, dimesnion, and number of clusters in the ground truth. (Plot functions as curves and 2 algorithms and 2 internal measures in one plot for comparison)
+3. Simulating data with complex clusters (Variables = sample size / dimensions / number of clusters)
+Task 3: Simulate  datasets with various sample sizes, dimensions, and number of clusters (small vs large)
 
-# Runtime
-# Task 4.2: Report the runtime of each of the four setups as functions of sample size and dimension
+4. Performance evaluation on simulated datasets (Clustering accuracy)
+Task 4.1: Use ARI to report the performance of algorithms as a function of sample size, dimesnion, and number of clusters in the ground truth. (Plot functions as curves and 2 algorithms and 2 internal measures in one plot for comparison)
 
-# 5. Clusters of Cells in developing mouse retina
-# Task 5.1: Evaluate the quality of. 40 raw clusters and 7 cell types from the paper using the two internal cluster measures you have chosen
+Runtime
+Task 4.2: Report the runtime of each of the four setups as functions of sample size and dimension
 
-# Task 5.2: Apply the four options in to cluster the cells and report the internal cluster quality
+5. Clusters of Cells in developing mouse retina
+Task 5.1: Evaluate the quality of. 40 raw clusters and 7 cell types from the paper using the two internal cluster measures you have chosen
 
-# Task 5.3: Determine the discrepancy between your clusterings against the 40 raw clusters and 7 cell types in the paper using ARI
+Task 5.2: Apply the four options in to cluster the cells and report the internal cluster quality
 
-# 6. Discussion
-# Task 6: Summarize your results on both the simulated and real data. Discuss challenges in clustering high dimensional data
+Task 5.3: Determine the discrepancy between your clusterings against the 40 raw clusters and 7 cell types in the paper using ARI
+
+6. Discussion
+Task 6: Summarize your results on both the simulated and real data. Discuss challenges in clustering high dimensional data
